@@ -2,4 +2,4 @@ streamlit
 langchain==0.1.0
 chromadb
 tiktoken
-
+openai==0.28.1
